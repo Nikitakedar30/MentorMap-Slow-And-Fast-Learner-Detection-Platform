@@ -1,0 +1,9 @@
+node_modules/
+**/node_modules/
+.env
+build/
+dist/
+*.log
+*.pkl
+*.h5
+*.pt
